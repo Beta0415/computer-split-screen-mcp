@@ -22,6 +22,12 @@ dependencies = [
     'pyobjc-framework-ApplicationServices>=10.1,<11; sys_platform == "darwin"'
 ]
 
+[project.urls]
+Homepage = "https://github.com/Beta0415/computer-split-screen-mcp"
+Repository = "https://github.com/Beta0415/computer-split-screen-mcp"
+Documentation = "https://github.com/Beta0415/computer-split-screen-mcp#readme"
+Issues = "https://github.com/Beta0415/computer-split-screen-mcp/issues"
+
 [project.scripts]
 computer-split-screen-mcp = "splitscreen_mcp.__main__:main"
 

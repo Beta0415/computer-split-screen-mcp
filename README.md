@@ -173,8 +173,8 @@ computer-split-screen/
 
 ### Building from Source
 ```bash
-git clone <repository-url>
-cd computer-split-screen
+git clone https://github.com/Beta0415/computer-split-screen-mcp.git
+cd computer-split-screen-mcp
 uvx install -e .
 ```
 
@@ -186,6 +186,11 @@ python3 -c "from src.splitscreen_mcp.window_actions import left_half_window; lef
 # Test MCP server
 uvx run computer-split-screen-mcp
 ```
+
+### Contributing
+- **Repository**: [https://github.com/Beta0415/computer-split-screen-mcp](https://github.com/Beta0415/computer-split-screen-mcp)
+- **Issues**: [https://github.com/Beta0415/computer-split-screen-mcp/issues](https://github.com/Beta0415/computer-split-screen-mcp/issues)
+- **Pull Requests**: Welcome! Please open an issue first for major changes.
 
 ## 📄 License
 
