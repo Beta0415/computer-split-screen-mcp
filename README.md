@@ -193,10 +193,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Version History
 
-- **v1.4.4** - Current stable release
+- **v1.5.0** - Current stable release
   - Cross-platform window management
   - 16 comprehensive tools
   - High-performance implementation
   - Full MCP protocol support
+
+- **v1.1.0 - v.1.4.5** - In-progress testing & updates
+
+- **v.1.2.0** - Outdated release
+  - macOS uses pure AppleScript window relocation method
+
+- **v1.0.0** - Intitial release
 
 **Built with ❤️ for the MCP community**
