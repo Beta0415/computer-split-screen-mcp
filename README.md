@@ -187,18 +187,9 @@ python3 -c "from src.splitscreen_mcp.window_actions import left_half_window; lef
 uvx run computer-split-screen-mcp
 ```
 
-### Contributing
-- **Repository**: [https://github.com/Beta0415/computer-split-screen-mcp](https://github.com/Beta0415/computer-split-screen-mcp)
-- **Issues**: [https://github.com/Beta0415/computer-split-screen-mcp/issues](https://github.com/Beta0415/computer-split-screen-mcp/issues)
-- **Pull Requests**: Welcome! Please open an issue first for major changes.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📊 Version History
 
@@ -207,16 +198,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
   - 16 comprehensive tools
   - High-performance implementation
   - Full MCP protocol support
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Review MCP client logs for errors
-3. Test functions directly to isolate issues
-4. Open an issue on the project repository
-
----
 
 **Built with ❤️ for the MCP community**
