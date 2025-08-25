@@ -1,6 +1,6 @@
 """Computer Split Screen Cross-Platform (Mac & Windows) MCP Server"""
 
-__version__ = "1.4.4"
+__version__ = "1.5.0"
 __author__ = "Beta"
 
 from .window_actions import (
